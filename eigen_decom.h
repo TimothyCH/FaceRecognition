@@ -1,6 +1,9 @@
 #ifndef EIGEN_DECOM_H
 #define EIGEN_DECOM_H
 
+//Copyed from LDA.
+//To count the eigen value and eigen vector of a Mat.
+
 #include <opencv/cv.h>
 
 using cv::Mat;
